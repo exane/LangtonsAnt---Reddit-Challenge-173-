@@ -1,4 +1,4 @@
-describe("Simulation", function(){
+xdescribe("Simulation", function(){
     var la, i, ant, map;
     var DIRECTION = {
         NORTH: 1,

@@ -42,7 +42,7 @@ var Ant = (function(){
 
 
     r.loadTexture = function(){
-        var t = PIXI.Texture.fromImage("asserts/ant.png");
+        var t = PIXI.Texture.fromImage("assets/ant.png");
         this.img = new PIXI.Sprite(t)
     }
 
